@@ -1,4 +1,4 @@
-/*
+
 const country = 'India' ;
 const continent = 'Asia';
 let population = 1000000 ;
@@ -86,7 +86,7 @@ switch (day) {
                             console.log('Enjoy the weekend !');
                             break;
 }
-*/
+
 const age = 16 ;
 const drink = age >= 18 ? 'Drink wine' : 'Drink water';
 age >= 18 ?console.log( 'drink beer') : console.log('drink juice');
